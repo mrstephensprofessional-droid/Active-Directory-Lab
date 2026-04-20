@@ -46,18 +46,7 @@ Built a Windows Server home lab using Active Directory, DNS, DHCP, and Group Pol
 ## Group Policy Example
 Created a GPO named `LabUsers` and linked it to the appropriate OU to apply settings to test accounts.
 
-## Screenshots
 
-/screenshots
-  01-network-setup.png
-  02-static-ip.png
-  03-domain-controller.png
-  04-dns-manager.png
-  05-dhcp-scope.png
-  06-ou-structure.png
-  07-domain-join.png
-  08-gpo-link.png
-```
 
 ## Skills Demonstrated
 - Active Directory Administration
