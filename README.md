@@ -1,65 +1,37 @@
-# Active Directory Home Lab
-
-## Overview
-Built a Windows Server home lab using Active Directory, DNS, DHCP, and Group Policy to simulate a small enterprise environment. Configured domain services, joined Windows clients to the domain, created OUs and user accounts, and applied GPOs for centralized management.
-
-## Lab Environment
-- Hypervisor: VirtualBox
-- Server OS: Windows Server 2025
-- Client OS: Windows 10 Pro
-- Network Type:
-  - Internal Network
-  - NAT Adapter (optional for internet access)
-
-## Objectives
-- Configure a Domain Controller
-- Install and configure DNS
-- Install and configure DHCP
-- Create Organizational Units (OUs)
-- Create users and admin accounts
-- Join client machines to the domain
-- Apply Group Policy Objects (GPOs)
-
-## Network Configuration
-### Domain Controller
-- Static IP: 192.168.10.10
-- DNS: 192.168.10.10
-- Domain: Stephenslab.com
-
-### DHCP Scope
-- Range: 192.168.10.100 - 192.168.10.200
-- Subnet Mask: 255.255.255.0
-- DNS Server: 192.168.10.10
-
-## Steps Completed
-1. Created an internal LAN using VirtualBox
-2. Assigned a static IP to the Domain Controller
-3. Installed Active Directory Domain Services
-4. Promoted the server to a Domain Controller
-5. Configured DNS forwarders
-6. Installed and authorized DHCP
-7. Created Organizational Units
-8. Created domain user accounts
-9. Joined Windows 10 clients to the domain
-10. Created and linked Group Policy Objects
-
-## Group Policy Example
-Created a GPO named `LabUsers` and linked it to the appropriate OU to apply settings to test accounts.
+Cybersecurity & IT Portfolio
+## Cameron Stephens | B.S. in IT (Cybersecurity)
 
 
 
-## Skills Demonstrated
-- Active Directory Administration
-- DNS Configuration
-- DHCP Management
-- Group Policy Management
-- Windows Networking
-- Virtualization
-- Troubleshooting
 
-## Lessons Learned
-- DNS must point to the Domain Controller
-- DHCP must be authorized in Active Directory
-- Cloned VMs need unique MAC addresses
-- Windows 10 Home cannot join a domain
-- Group Policy only applies when linked to the correct OU
+## 🛠️ Technical Labs & Projects
+
+### 🔵 [Active Directory Home Lab](./Active_directory_Lab)
+* **Objective:** Deployment of a simulated corporate environment to practice Identity and Access Management (IAM).
+* **Key Configurations:** * Setup of **Windows Server 2025** as a Domain Controller.
+    * Configured **DNS**, **DHCP**, and **Active Directory Domain Services (AD DS)**.
+    * Implemented **Group Policy Objects (GPOs)** for automated security hardening and user environment control.
+    * Joined Windows 10 Pro clients to the domain and managed OUs/User accounts.
+* **Tools:** VirtualBox, Windows Server, PowerShell.
+
+### 🐍 [Network Scanner Tool (Python/Scapy)](./Network-Scanner)
+* **Objective:** Develop a custom tool for network discovery and security auditing.
+* **Status:** *In Development*
+* **Focus:** Utilizing the **Scapy** library to craft ARP requests and map active hosts on a local subnet.
+* **Skills:** Network Protocols (Layer 2/3), Python Scripting, Security Automation.
+
+---
+
+## 📜 Professional Credentials
+* **[Insert Certification, e.g., CompTIA Security+]**
+* **[Insert Certification, e.g., Cisco CCNA]**
+
+## 🎓 Education
+* **Bachelor of Science in Information Technology**
+* *Concentration: Cybersecurity*
+
+---
+
+## 📧 Connect with Me
+* **LinkedIn:** [Your Profile Link]
+* **Email:** [Your Email Address]
