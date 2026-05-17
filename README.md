@@ -12,7 +12,8 @@ Cybersecurity & IT Portfolio
     * Configured **DNS**, **DHCP**, and **Active Directory Domain Services (AD DS)**.
     * Implemented **Group Policy Objects (GPOs)** for automated security hardening and user environment control.
     * Joined Windows 10 Pro clients to the domain and managed OUs/User accounts.
-* **Tools:** VirtualBox, Windows Server, PowerShell.
+    * Deployed Splunk Enterprise for centralized security monitoring and log aggregation.
+* **Tools:** VirtualBox, Windows Server, PowerShell, SPLUNK Enterprise.
 
 
 ---
