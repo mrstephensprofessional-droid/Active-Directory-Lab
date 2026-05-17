@@ -14,11 +14,6 @@ Cybersecurity & IT Portfolio
     * Joined Windows 10 Pro clients to the domain and managed OUs/User accounts.
 * **Tools:** VirtualBox, Windows Server, PowerShell.
 
-### 🐍 [Network Scanner Tool (Python/Scapy)](./Network-Scanner)
-* **Objective:** Develop a custom tool for network discovery and security auditing.
-* **Status:** *In Development*
-* **Focus:** Utilizing the **Scapy** library to craft ARP requests and map active hosts on a local subnet.
-* **Skills:** Network Protocols (Layer 2/3), Python Scripting, Security Automation.
 
 ---
 
