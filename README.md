@@ -33,5 +33,5 @@ Cybersecurity & IT Portfolio
 ---
 
 ## 📧 Connect with Me
-* **LinkedIn:** [Your Profile Link]
-* **Email:** [Your Email Address]
+* **LinkedIn:** https://www.linkedin.com/in/cameron-s-stephens-/   
+* **Email:** mrstephens.professional@gmail.com
