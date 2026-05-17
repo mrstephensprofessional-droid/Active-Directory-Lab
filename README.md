@@ -18,8 +18,8 @@ Cybersecurity & IT Portfolio
 ---
 
 ## 📜 Professional Credentials
-* **[Insert Certification, e.g., CompTIA Security+]**
-* **[Insert Certification, e.g., Cisco CCNA]**
+* ** CompTIA Security+ 701 ]**
+* ** CompTIA Security Pro**
 
 ## 🎓 Education
 * **Bachelor of Science in Information Technology**
