@@ -31,6 +31,11 @@ Built a Windows Server home lab using Active Directory, DNS, DHCP, and Group Pol
 - Subnet Mask: 255.255.255.0
 - DNS Server: 192.168.10.10
 
+### SIEM Configuration
+* **Platform:** Splunk Enterprise
+* **Deployment:** Hosted locally on Windows Server 2025
+* **Purpose:** Centralized log aggregation and security event monitoring
+
 ## Steps Completed
 1. Created an internal LAN using VirtualBox
 2. Assigned a static IP to the Domain Controller
