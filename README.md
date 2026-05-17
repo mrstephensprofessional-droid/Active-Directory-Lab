@@ -18,8 +18,8 @@ Cybersecurity & IT Portfolio
 ---
 
 ## 📜 Professional Credentials
-* ** CompTIA Security+ 701 ]**
-* ** CompTIA Security Pro**
+*  CompTIA Security+ 701
+*  CompTIA Security Pro
 
 ## 🎓 Education
 * **Bachelor of Science in Information Technology**
